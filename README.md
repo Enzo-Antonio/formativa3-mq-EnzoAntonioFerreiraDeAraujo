@@ -14,11 +14,11 @@ README.md
 LICENSE  
 src  
 |_styles  
-    |_style.css  
+&emsp; &emsp;|_style.css  
 |_scripts  
-    |_script.js  
+&emsp; &emsp;|_script.js  
 |_img  
-    |_foguete.png  
+&emsp; &emsp;|_foguete.png  
 
 ## Tecnologias Aplicadas
 Aproveitei de tecnologias como VS Code, auxílio dos slides dados em aula, exercícios antigos e explicações por Inteligência Artificial para fixação dos conceitos.
